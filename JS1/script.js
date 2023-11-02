@@ -1,6 +1,9 @@
-// var, let, const
+
 function func(){
-    var a=10
+    if(true){
+        var a=10
+    }
     console.log(a)
 }
+console.log(a)
 func()
