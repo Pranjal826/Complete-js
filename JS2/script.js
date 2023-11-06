@@ -13,3 +13,6 @@ function details(name) {
   var salary = 1000;
 
 
+
+
+  
